@@ -11,7 +11,7 @@ body {
 /* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
 
 .full {
-    background: url('https://upload.wikimedia.org/wikipedia/commons/e/e0/Sunrise%2C_Manaslu.jpg') no-repeat center center fixed;
+    background: url('https://lh3.googleusercontent.com/LPUhPm5QiiIqxEmRev3DPwfNl4p3MJFrYB9iiKUjUioEt8hdWvcA27gcuAlhjEkEOpd2bVYAMC3lCM2_7lK-4dgd6UU0q_SDfN8tcyjoj-lFIp-DvMIcLtWPPloMoDGne9p-5A') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;

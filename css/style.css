@@ -1,0 +1,89 @@
+body{
+  background-color: #f5f5f5;
+  padding: 30px;
+  font-family: roboto;
+
+}
+.container-fluid{
+  background-color: white;
+  max-width: 980px;
+  padding: 0px;
+}
+.sidebar{
+  background-color: #42A8C0;
+  width: 100%;
+  padding: ;
+  
+}
+.profile-container {
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.2);
+    text-align: center;
+    color: #fff;
+}
+.content{
+  min-width: 240px;
+}
+
+
+.content{
+    padding: 30px;
+
+}
+.content-padding{
+  padding:20px;
+}
+img{
+  margin-bottom: 10px;
+  width: 100%;
+  max-width: 100px;
+}
+i{
+  color: #35879A;
+}
+.stats{
+  padding: 10px;
+  color: white;
+ 
+}
+.fa-twitter-square{
+  color: white;
+}
+.fa-linkedin-square{
+  color:white;
+}
+h6{
+  color: #EEF5DB;
+}
+.certs p{
+  margin: 0px;
+  font-size: .8em;
+}
+.certs{
+ margin-bottom: 10px;
+}
+.socialmedia {
+ text-align: center;
+  margin-bottom: 30px;
+
+}
+ h5 {
+    text-decoration: underline;
+   font-size: 1.2em;
+}
+h4{
+  font-weight: 900;
+}
+.years{
+     float: right;
+}
+.upperline h6{
+color: black;  
+}
+.school{
+  color: grey;
+}
+.content p {
+  font-size: .85em;
+  margin-top: 5px;
+}

@@ -1,0 +1,135 @@
+body{
+  background-color: #f5f5f5;
+  font-family: roboto;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+    text-decoration: none;
+  color: white;
+}
+
+header{
+  height:100vh;
+  background-size: cover;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/b/b2/Marmolada_Sunset.jpg") ;
+  margin-bottom: 50px;
+  width: 100%;
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-family: 'Passion One', cursive;
+  font-size: 500%;
+  
+}
+.button{
+   background-color: #42A8C0;
+    border: none;
+  border-radius: 4px;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+  font-family: 'Passion One', cursive;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.button:hover {
+    background-color: grey;
+}
+
+
+.container-fluid{
+  background-color: white;
+  max-width: 980px;
+  padding: 0px;
+  margin: 30px auto 30px auto;
+  
+}
+.sidebar{
+  background-color: #42A8C0;
+  width: 100%;
+  padding: ;
+  
+}
+.profile-container {
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.2);
+    text-align: center;
+    color: #fff;
+}
+.content{
+  min-width: 240px;
+}
+
+
+.content{
+    padding: 30px;
+
+}
+.content-padding{
+  padding:20px;
+}
+img{
+  margin-bottom: 10px;
+  width: 100%;
+  max-width: 100px;
+}
+i{
+  color: #35879A;
+}
+.stats{
+  padding: 10px;
+  color: white;
+ 
+}
+.fa-twitter-square{
+  color: white;
+}
+.fa-linkedin-square{
+  color:white;
+}
+
+.certs p{
+  margin: 0px;
+  font-size: .8em;
+}
+.certs{
+ margin-bottom: 10px;
+}
+.socialmedia {
+ text-align: center;
+  margin-bottom: 30px;
+
+}
+ h5 {
+    text-decoration: underline;
+   font-size: 1.2em;
+}
+h4{
+  font-weight: 900;
+}
+.years{
+     float: right;
+}
+.upperline h6{
+color: black;  
+}
+.school{
+  color: grey;
+}
+.content p {
+  font-size: .85em;
+  margin-top: 5px;
+}
+@media only screen and (max-width: 500px){
+  header{
+    font-size: 300%
+  }
+}

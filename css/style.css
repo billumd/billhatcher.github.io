@@ -3,10 +3,11 @@ body{
   font-family: roboto;
 }
 
-footer{
+#footer{
   margin-left: auto;
   margin-right: auto;
 }
+
 a {
   text-decoration: none;
   color: white;

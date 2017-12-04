@@ -18,7 +18,7 @@ a:hover {
 header{
   height:100vh;
   background-size: cover;
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/b/b2/Marmolada_Sunset.jpg") ;
+  /*background-image: url("https://upload.wikimedia.org/wikipedia/commons/b/b2/Marmolada_Sunset.jpg") ; */
   margin-bottom: 50px;
   width: 100%;
   

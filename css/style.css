@@ -5,12 +5,10 @@ body{
 
 #footer{
   margin-left: 45%;
-  color: black;
 }
 
 a {
   text-decoration: none;
-  color: white;
 }
 a:hover {
     text-decoration: none;
